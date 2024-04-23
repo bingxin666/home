@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.byteloid.one/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://pan.byteloid.one/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Email",
+    "name": "邮箱",
+    "link": "https://mail.byteloid.one/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Share",
+    "name": "分享",
+    "link": "https://share.baka.ac.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "友链",
+    "link": "https://blog.byteloid.one/links/"
   },
   {
     "icon": "LaptopCode",
+    "name": "DN42",
+    "link": "https://blog.byteloid.one/dn42/"
+  },
+  {
+    "icon": "AiStatus",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.byteloid.one/"
   }
 ]
