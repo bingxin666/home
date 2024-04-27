@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">2023-2024 始终如一<br/>海内存知己 天涯若比邻</div>
 </template>
 
 <style lang="scss" scoped>
