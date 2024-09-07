@@ -28,5 +28,11 @@
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/bakamarch7th"
+  },
+  {
+    "name": "开往",
+    "icon": "https://www.travellings.cn/assets/logo.svg",
+    "tip": "去往下一个世界。",
+    "url": "https://www.travellings.cn/go.html"
   }
 ]
