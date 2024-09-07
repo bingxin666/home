@@ -5,14 +5,14 @@
     "link": "https://blog.byteloid.one/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.byteloid.one/"
-  },
-  {
     "icon": "Share",
     "name": "分享",
     "link": "https://share.baka.ac.cn/"
+  },
+  {
+    "icon": "Subway",
+    "name": "开往",
+    "link": "https://www.travellings.cn/go.html"
   },
   {
     "icon": "Book",
