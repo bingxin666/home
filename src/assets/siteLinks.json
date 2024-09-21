@@ -6,7 +6,7 @@
   },
   {
     "icon": "Share",
-    "name": "分享",
+    "name": "网盘分享",
     "link": "https://share.baka.ac.cn/"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "DN42",
-    "link": "https://blog.byteloid.one/dn42/"
+    "name": "实验网络",
+    "link": "https://testnet.byteloid.one/"
   },
   {
     "icon": "AiStatus",
-    "name": "站点监测",
+    "name": "服务器监测",
     "link": "https://status.byteloid.one/"
   }
 ]
